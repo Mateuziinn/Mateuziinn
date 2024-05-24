@@ -1,8 +1,13 @@
 ## Olá! Sou Mateus Nobrega 👋
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
-![Anurag's GitHub stats](https://github.com/Mateuziinn)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mateuziinn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 # Linguagens 📚
-![https://www.google.com/imgres?q=Java%20logo&imgurl=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fhuge-basic-icons-part-3%2F512%2FJava.png&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F147830%2Fjava_icon&docid=Mx0e8LZsWl3A3M&tbnid=fGQeW5et7d0ZTM&vet=12ahUKEwiIu8W416aGAxWXr5UCHWCiA7wQM3oECB0QAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiIu8W416aGAxWXr5UCHWCiA7wQM3oECB0QAA]
+- **Kotlin**
+- **JAVA**
+- **Python**
+- **Java_script**
+
+
 
 # Experiência 🚀
 
@@ -11,10 +16,7 @@ Análise de Sistemas: Atualmente, estou aprofundando meus conhecimentos em anál
 # Interesses 📖
 Possuo interrese por i.a  
 
-JAVA
 
-
-Kotlin
 
 
 
