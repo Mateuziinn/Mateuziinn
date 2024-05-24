@@ -2,7 +2,7 @@
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 ![Anurag's GitHub stats]
 # Linguagens 📚
-![img/python]
+![python.jpg]
 
 # Experiência 🚀
 
