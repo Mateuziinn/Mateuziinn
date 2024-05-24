@@ -1,6 +1,6 @@
 ## Olá! Sou Mateus Nobrega 👋
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mateuziinn=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mateusnobrega=anuraghazra&show_icons=true&theme=radical)
 # Linguagens 📚
 - **Kotlin**
 - **JAVA**
