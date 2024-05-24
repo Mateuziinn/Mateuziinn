@@ -1,13 +1,8 @@
 ## Olá! Sou Mateus Nobrega 👋
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn-tech&show_icons=true&theme=radical)
+![Anurag's GitHub stats]
 # Linguagens 📚
-
-![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](Mateuziinn))
-![NET-5C2D91_style=for-the-badge logo=](https://github.com/Mateuziinn)
-![Python-14354C_style=for-the-badge logo=python logoColor=white](https://github.com/Mateuziinn)
-![Figma-F24E1E_style=for-the-badge logo=figma logoColor=white](https://github.com/Mateuziinn))
-<img width='70px' src='./Imagens/uipath3.png'>
+![img/python]
 
 # Experiência 🚀
 
