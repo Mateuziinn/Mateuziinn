@@ -1,6 +1,6 @@
 ## Olá! Sou Mateus Nobrega 👋
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinnicons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn-tech&show_icons=true&theme=radical)
 # Linguagens 📚
 
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](Mateuziinn))
@@ -11,11 +11,14 @@
 
 # Experiência 🚀
 
-- Análise de Sistemas: Estou estudando análise e desenvolvimento de sistemas para aprimorar minha compreensão de arquitetura de software, design de banco de dados e gerenciamento de projetos. Tenho interesse em aplicar essas habilidades na construção de sistemas eficientes e escaláveis.
+Análise de Sistemas: Atualmente, estou aprofundando meus conhecimentos em análise e desenvolvimento de sistemas na FIAP. Meu foco é entender melhor a arquitetura de software, o design de banco de dados e a gestão de projetos. Meu objetivo é utilizar essas competências para criar sistemas robustos e escaláveis. Estou entusiasmado para aplicar o que estou aprendendo na construção de soluções eficazes
 
 # Interesses 📖
-Possuo interrese por i.a
+Possuo interrese por i.a  
+
 JAVA
+
+
 Kotlin
 
 
