@@ -1,6 +1,6 @@
 ## Olá! Sou Mateus Nobrega 👋
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn-tech&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinnicons=true&theme=radical)
 # Linguagens 📚
 
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](Mateuziinn))
