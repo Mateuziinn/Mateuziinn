@@ -1,4 +1,5 @@
 ## Olá! Sou Mateus Nobrega 👋
+![Anime Boy with Coffee](img/animated-anime-boy-with-coffee-04u1aof3fr5ic0bk.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn&show_icons=true&theme=radical)
 # Linguagens 📚
 <img src="img/py.webp" alt="Python" width="80" height="80">     <img src="img/java.webp" alt="Java" width="80" height="80">   <img src="img/kotlin.webp" alt="Kotlin" width="80" height="80">
