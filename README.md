@@ -21,5 +21,5 @@ Análise de Sistemas: Atualmente, estou aprofundando meus conhecimentos em anál
 
 
 # Contatos 📞
-[![Linkedin](https://img.shields.io/badge/[LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnóbrega/](https://www.linkedin.com/in/mateus-nobrega-41b7702b8/))
+[![Linkedin](https://img.shields.io/badge/[LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnóbrega/](https://www.linkedin.com/in/mateus-nobrega-41b7702b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz9i0B54cTYS2GYKcSGSNaA%3D%3D))
 
