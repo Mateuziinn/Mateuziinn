@@ -39,7 +39,7 @@ Análise de Sistemas: Atualmente, estou aprofundando meus conhecimentos em anál
   <a href="https://www.instagram.com/_mateuziinn/">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1865894-1581910.png" alt="Instagram" width="50" height="50">
  
-  <a href="[mailto:nobre6657@gmail.com](https://www.outlook.com/?refd=account.microsoft.com&fref=home.banner.viewinbox)">
+  <a href="[mailto:nobre6657@gmail.com]">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=256" alt="Instagram" width="50" height="50">
 
 
