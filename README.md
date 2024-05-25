@@ -1,7 +1,7 @@
 ## Olá! Sou Mateus Nobrega 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn&show_icons=true&theme=radical)
 # Linguagens 📚
-<img src="img/python.jpg" alt="Python" width="80" height="80">     <img src="img/Java.png" alt="Java" width="80" height="80">   <img src="img/kotlin.jpg" alt="Kotlin" width="80" height="80">
+<img src="img/python.webp" alt="Python" width="80" height="80">     <img src="img/Java.png" alt="Java" width="80" height="80">   <img src="img/kotlin.jpg" alt="Kotlin" width="80" height="80">
 <img src="img/javascript.jpg " alt="Script" width="80" height="80">   <img src="img/html.png" alt="html" width="80" height="80">   <img src="img/css.webp" alt="html" width="80" height="80"> 
 
   
