@@ -33,14 +33,12 @@ Análise de Sistemas: Atualmente, estou aprofundando meus conhecimentos em anál
 
 
 # Contatos 📞
- <a href="https://www.linkedin.com/in/mateus-nobrega-41b7702b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz9i0B54cTYS2GYKcSGSNaA%3D%3D">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-48-189774.png?f=webp&w=256" alt="Instagram" width="50" height="50">
-
-  <a href="https://www.instagram.com/_mateuziinn/">
+  <a href="https://www.linkedin.com/in/mateus-nobrega-41b7702b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz9i0B54cTYS2GYKcSGSNaA%3D%3D">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-48-189774.png?f=webp&w=256" alt="Instagram" width="50" height="50"></a>
+  <a href="https://www.instagram.com/_mateuziinn/"> </a>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1865894-1581910.png" alt="Instagram" width="50" height="50">
- 
   <a href="[mailto:nobre6657@gmail.com]">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=256" alt="Instagram" width="50" height="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=256" alt="Instagram" width="50" height="50"></a>
 
 
 
