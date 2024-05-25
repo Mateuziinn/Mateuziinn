@@ -1,9 +1,21 @@
-## Olá! Sou Mateus Nobrega 👋
-![Anime Boy with Coffee](img/animated-anime-boy-with-coffee-04u1aof3fr5ic0bk.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuziinn&show_icons=true&theme=radical)
+## Olá! Sou Mateus Nobrega 👋  
+<img src="img/animated-anime-boy-with-coffee-04u1aof3fr5ic0bk.gif" alt="Anime Boy with Coffee" width="200" height="200">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateuziinn&show_icons=true&theme=radical" style="margin-right: 70px;">
+</p>
+  
+
 # Linguagens 📚
-<img src="img/py.webp" alt="Python" width="80" height="80">     <img src="img/java.webp" alt="Java" width="80" height="80">   <img src="img/kotlin.webp" alt="Kotlin" width="80" height="80">
-<img src="img/jscript.webp" alt="Script" width="80" height="80">   <img src="img/html.webp" alt="html" width="80" height="80">   <img src="img/css.webp" alt="html" width="80" height="80"> 
+<p float="left">
+  <img src="img/py.webp" alt="Python" width="80" height="80" style="margin-right: 10px;">
+  <img src="img/java.webp" alt="Java" width="80" height="80" style="margin-right: 10px;">
+  <img src="img/kotlin.webp" alt="Kotlin" width="80" height="80" style="margin-right: 10px;">
+  <img src="img/jscript.webp" alt="Script" width="80" height="80" style="margin-right: 10px;">
+  <img src="img/html.webp" alt="html" width="80" height="80" style="margin-right: 10px;">
+  <img src="img/css.webp" alt="html" width="80" height="80">
+</p>
+
 
   
 
